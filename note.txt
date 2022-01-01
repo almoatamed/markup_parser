@@ -1,0 +1,2 @@
+- start by reading all the lines withing the file (or the input in this case)
+
